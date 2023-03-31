@@ -1,0 +1,52 @@
+Welcome to the CLI Game!
+
+Goal:
+The goal of this game is to find the city with the highest crime rate among the 8 cities given, based on the statistics provided for 4 different crimes.
+
+Opposition:
+The opposition in this game is time. You have a limited amount of time to go through the clues and make your decisions.
+
+Decisions:
+You will make decisions by navigating through the CLI commands such as cd, ls, cat and friends to gather information about the different cities and their crime rates.
+
+Rules:
+
+You have maximum 10 stages to go through in order to find the city with the highest crime rate.
+At each stage, you will be given a set of clues to navigate through the directories and files to get more information about the different cities.
+Once you have gone through all 10 stages, you will be prompted to guess the city with the highest crime rate.
+If you guess correctly, you win the game, otherwise, you will be prompted to try again.
+You have 15 minutes to complete the game.
+Mechanics:
+
+cd: navigate through directories to access files and folders.
+ls: list the files and folders in the current directory.
+cat: read the content of a file.
+grep: search for specific keywords within a file.
+Dynamics:
+The player interacts with the game through CLI commands and by making decisions based on the information gathered.
+
+Aesthetics:
+The game is text-based, so the focus is on the information provided and the player's decision-making process.
+
+Narrative:
+The game has a mystery theme, where the player is trying to solve a crime by gathering information about different cities.
+
+Gameplay Mechanics:
+
+Navigate through directories using cd and ls to find files with clues.
+Use 'cat' command to read the content of the files.
+Use 'grep' command to search for specific keywords within the files.
+Based on the clues gathered, make a decision on which city has the highest crime rate.
+If the decision is incorrect, try again.
+Core Actions:
+
+Navigate
+Read
+Search
+Decide
+Core Gameplay Loop:
+
+Navigate through directories and files.
+Read the content of the files.
+Make a decision based on the information gathered.
+Have fun playing the CLI Game!
